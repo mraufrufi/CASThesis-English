@@ -1,2 +1,2 @@
 # CAStheis-English
-Replace this file with your exiting CAStheis.cfg file
+Replace this file with your CAStheis.cfg file
